@@ -7,7 +7,7 @@
 
   * An interactive platform to dynamically visualize data and poisoning behavious in federated learning systems. [Link](https://github.com/CathyXueqingZhang/DataPoisoningVis)
  
-  * A collaborative platform for tool-augmented LLMs. [paper](https://arxiv.org/pdf/2308.04030) [demo](https://www.youtube.com/watch?v=7dZ3ZvsI7sw) [Link](https://github.com/Gentopia-AI/Gentopia)
+  * A collaborative platform for tool-augmented LLMs. [Paper](https://arxiv.org/pdf/2308.04030) [Demo](https://www.youtube.com/watch?v=7dZ3ZvsI7sw) [Link](https://github.com/Gentopia-AI/Gentopia)
 
   * Digital twin in next-generation wireless network (mmWave, 5G/6G) based on ns-3 and ray tracer. [Link](https://github.com/yuchen-sh/Network-Digital-Twin)
 

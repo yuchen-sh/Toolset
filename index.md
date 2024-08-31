@@ -3,7 +3,7 @@
 
 &emsp;
 
-  * An interactive, automated, and script-free simulation tool using Network-oriented LLMs. [Link](https://github.com/ak-maker/sionna-LLMs/tree/main)
+  * An interactive, automated, and script-free simulation tool using Network-oriented LLMs. [Link Demo](https://github.com/ak-maker/sionna-LLMs/tree/main)
 
   * An interactive platform to dynamically visualize data and poisoning behavious in federated learning systems. [Link](https://github.com/CathyXueqingZhang/DataPoisoningVis)
  

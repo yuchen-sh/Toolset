@@ -11,6 +11,8 @@
 
   * Digital twin in next-generation wireless network (mmWave, 5G/6G) based on ns-3 and ray tracer. [Link](https://github.com/yuchen-sh/Network-Digital-Twin)
 
+  * Ray-tracing software for mapping signal propagation profiles. [Link](https://github.com/yuchen-sh/Ray-tracer-for-network-twinning)
+
   * Efficient augmented language models -- Reasoning without observation. [Link](https://github.com/billxbf/ReWOO)
 
   * ns-3 WiGig implementation. [Link](https://apps.nsnam.org/app/wigig/)

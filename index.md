@@ -3,7 +3,7 @@
 
 &emsp;
 
-*"Sharing the develped tools, platforms, datasets, and demos from our research"*
+*"Sharing the developed tools, platforms, datasets, and demos from our research"*
 
   * An interactive, automated, and script-free simulation tool using Network-oriented LLMs. [Link Demo](https://github.com/ak-maker/sionna-LLMs/tree/main)
 

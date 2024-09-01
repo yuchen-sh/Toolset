@@ -3,6 +3,8 @@
 
 &emsp;
 
+*"Sharing the develped tools, platforms, datasets, and demos from our research"*
+
   * An interactive, automated, and script-free simulation tool using Network-oriented LLMs. [Link Demo](https://github.com/ak-maker/sionna-LLMs/tree/main)
 
   * An interactive platform to dynamically visualize data and poisoning behavious in federated learning systems. [Link](https://github.com/CathyXueqingZhang/DataPoisoningVis)
@@ -10,6 +12,8 @@
   * A collaborative platform for tool-augmented LLMs. [Paper](https://arxiv.org/pdf/2308.04030) [Demo](https://www.youtube.com/watch?v=7dZ3ZvsI7sw) [Link](https://github.com/Gentopia-AI/Gentopia)
 
   * Digital twin in next-generation wireless network (mmWave, 5G/6G) based on ns-3 and ray tracer. [Link](https://github.com/yuchen-sh/Network-Digital-Twin)
+
+  * Measurements and synthetic 60GHz link quality datasets, contributing to NIST NextG Channel Model Alliance. [Link](https://nextg.nist.gov/submissions/149)
 
   * Ray-tracing software for mapping signal propagation profiles. [Link](https://github.com/yuchen-sh/Ray-tracer-for-network-twinning)
 

@@ -9,23 +9,41 @@
 
     [Link Demo](https://github.com/ak-maker/sionna-LLMs/tree/main)
 
-  * An interactive platform to dynamically visualize data and poisoning behavious in federated learning systems. [Link](https://github.com/CathyXueqingZhang/DataPoisoningVis)
- 
-  * A collaborative platform for tool-augmented LLMs. [Paper](https://arxiv.org/pdf/2308.04030) [Demo](https://www.youtube.com/watch?v=7dZ3ZvsI7sw) [Link](https://github.com/Gentopia-AI/Gentopia)
-
-  * Digital twin in next-generation wireless network (mmWave, 5G/6G) based on ns-3 and ray tracer. [Link](https://github.com/yuchen-sh/Network-Digital-Twin)
-
-  * Measurements and synthetic 60GHz link quality datasets, contributing to NIST NextG Channel Model Alliance. [Link](https://nextg.nist.gov/submissions/149)
-
-  * Ray-tracing software for mapping signal propagation profiles. [Link](https://github.com/yuchen-sh/Ray-tracer-for-network-twinning)
-
-  * Efficient augmented language models -- Reasoning without observation. [Link](https://github.com/billxbf/ReWOO)
-
-  * ns-3 WiGig implementation. [Link](https://apps.nsnam.org/app/wigig/)
+  * An interactive platform to dynamically visualize data and poisoning behavious in federated learning systems.
   
-  * Enhanced mmWave LAN ns-3 simulator. [Link](<https://github.com/yuchen-sh/mmWave-WLAN-802.11ad/tree/master>)
+    [Link](https://github.com/CathyXueqingZhang/DataPoisoningVis)
+ 
+  * A collaborative platform for tool-augmented LLMs.
 
-  * Relay-assisted mmWave backhaul network simulator. [link](https://github.com/hqfrank/ns3-mmwave-relay/tree/master)
+    [Paper](https://arxiv.org/pdf/2308.04030) [Demo](https://www.youtube.com/watch?v=7dZ3ZvsI7sw) [Link](https://github.com/Gentopia-AI/Gentopia)
+
+  * Digital twin in next-generation wireless network (mmWave, 5G/6G) based on ns-3 and ray tracer.
+
+    [Link](https://github.com/yuchen-sh/Network-Digital-Twin)
+
+  * Measurements and synthetic 60GHz link quality datasets, contributing to NIST NextG Channel Model Alliance.
+
+    [Link](https://nextg.nist.gov/submissions/149)
+
+  * Ray-tracing software for mapping signal propagation profiles.
+
+    [Link](https://github.com/yuchen-sh/Ray-tracer-for-network-twinning)
+
+  * Efficient augmented language models -- Reasoning without observation.
+  
+    [Link](https://github.com/billxbf/ReWOO)
+
+  * ns-3 WiGig implementation.
+
+    [Link](https://apps.nsnam.org/app/wigig/)
+  
+  * Enhanced mmWave LAN ns-3 simulator.
+
+    [Link](<https://github.com/yuchen-sh/mmWave-WLAN-802.11ad/tree/master>)
+
+  * Relay-assisted mmWave backhaul network simulator.
+
+    [link](https://github.com/hqfrank/ns3-mmwave-relay/tree/master)
  
   <!-- * The platform for the development of digital twin in 3D wireless networks for signal source localization based on NSF AERPAW testbed and Virtual Development Environment. [Link (to be announced)](https://github.ncsu.edu/bchatte/RoverChallenge) -->
 

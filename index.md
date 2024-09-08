@@ -28,7 +28,7 @@
   <!-- * The platform for the development of digital twin in 3D wireless networks for signal source localization based on NSF AERPAW testbed and Virtual Development Environment. [Link (to be announced)](https://github.ncsu.edu/bchatte/RoverChallenge) -->
 
 
-*"Once a system has a software representation, a world of possibilities opens up"*
+*"**Once a system has a software representation, a world of possibilities opens up**"*
 
 
 &emsp;

@@ -7,7 +7,7 @@
 
   * An interactive, automated, and script-free simulation tool using Network-oriented LLMs. [Link Demo](https://github.com/ak-maker/sionna-LLMs/tree/main)
 
-  * A platform for enhancing network intrusion detection by integrating large language models (LLMs) to improve attack detection, analysis, and interpretability. [Link](https://github.com/Dongming1010/IDS-LLM)
+  * A platform for enhancing network intrusion detection by integrating large language models to improve attack detection, analysis, and interpretability. [Link](https://github.com/Dongming1010/IDS-LLM)
 
   * An interactive platform to dynamically visualize data and poisoning behavious in federated learning systems. [Link](https://github.com/CathyXueqingZhang/DataPoisoningVis)
  

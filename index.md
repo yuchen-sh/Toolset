@@ -17,6 +17,8 @@
 
   * Measurements and synthetic 60GHz link quality datasets, contributing to NIST NextG Channel Model Alliance. [Link](https://nextg.nist.gov/submissions/149)
 
+  * Network visualizer with hands-on scripts and examples for education: [Link](https://github.com/rohitkotanc/rkotans3/tree/main/ns-3.38)
+
   * Ray-tracing software for mapping signal propagation profiles. [Link](https://github.com/yuchen-sh/Ray-tracer-for-network-twinning)
 
   * Efficient augmented language models -- Reasoning without observation. [Link](https://github.com/billxbf/ReWOO)
